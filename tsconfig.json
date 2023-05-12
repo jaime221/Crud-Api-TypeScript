@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "eS5",
+   "lib": ["eS5","es2016","DOM"],
+   "module": "commonjs",
+   "moduleResolution": "node",
+   "outDir": "./dist",
+   "rootDir": "./src",
+   "experimentalDecorators": true,
+   "emitDecoratorMetadata": true,
+   "esModuleInterop": true,
+   "sourceMap": true
+  }
+  
+}
